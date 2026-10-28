@@ -1,0 +1,3 @@
+Authors: Kenneth W. Crossley (conceived the project, developed the code, debugging, and distribution)
+
+Validators: Emiliana Fabbri, Juliana Brunelli Falqueto, Marija Zoric, Natasha Hales, Javier Quilez Bermejo, Tim Welmers, Mateusz Wojtas, and Jan Grotheer (suggestions on metadata fields, graphic design inputs, beta testing)

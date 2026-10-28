@@ -1,0 +1,7 @@
+Attribution
+
+If you use this software in your research, please acknowledge the authors by citing the following works: 
+
+https://doi.org/10.3929/ethz-c-000806719
+
+(our forthcoming article in the Journal of Open Research Software)
