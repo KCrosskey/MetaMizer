@@ -265,11 +265,11 @@ Once the session is established, the user may append as many rows as desired wit
 
 ### RDE Tab
 
-![RDE Tab](ExampleRDE.png)
+![RDE Tab](images/ExampleRDE.png)
 
 ### Beamtime Tab
 
-![Beamtime Tab](ExampleFlowCell+XAS.png)
+![Beamtime Tab](images/ExampleFlowCell+XAS.png)
 
 ---
 
