@@ -1,0 +1,66 @@
+file_metadata:
+  creator: Kenneth
+  created_date: '2026-10-28 17:55:48'
+  filename_mode: standardized
+  generated_filename: 20261028_FC-beamtime_NiO_WE001_1MKOH_933p0mVrhe_t01
+  linked_files: ''
+ink_recipe:
+  recipe_book: InkRecipeBook
+  selected_ink_recipe: 'C: flow cell'
+  material_id: NiO
+experiment_parameters:
+  exp_purpose: Beamtime trial
+  reaction: OER
+  trial_id: t01
+  exp_type: test
+  working_electrode:
+    material_id: NiO
+    electrode_id: WE001
+    electrode_mass_mg: 0.85
+    electrode_area_cm2: 0.12
+  counter_electrode:
+    CE_id: CE001
+    CE_mass_mg: 0.9
+    CE_type: Pt on C
+  electrolyte:
+    concentration_M: '1'
+    composition: KOH
+    known_impurities_ppm: Fe (0.1)
+    liquid_flowrate_mLpermin: '1'
+    gas_flowrate_mLpermin: none
+  reference_electrode_1:
+    ref_type: Ag|AgCl2
+    mV_vs_rhe: 6.0
+  reference_electrode_2:
+    ref_type: Hg|HgO
+    mV_vs_rhe: 927.0
+  flowcell_details:
+    gasket_membrane: polyolefin sealing gasket
+    torque_Nm: 5.0
+    electrolyte_thickness_mm: 2.5
+    cell_id: cellA
+    cell_material: PEEK
+notes: 'electrochemistry decent; potential window increased to 1.65 v vs RHE at CV
+  cycle 3
+
+  '
+beamtime_parameters:
+  beamtime_exp_id: '522'
+  tecnique: XAS
+  beamline: SLS Debye
+  optics: ''
+  monochromator: Si (111)
+  filter: ''
+  I0: 10e14
+  beamspot: 0.6x0.2 mm2
+  beamtime_notes: 'brief beam loss at 18:33, continued experiment, beam returned at
+    19:07.
+
+    '
+  xas_parameters:
+    energy_min_eV: 8150.0
+    energy_max_eV: 8900.0
+    steps: 0.25
+    frequency: 1.0
+    detector: pips diode
+    detection_mode: fluorescence

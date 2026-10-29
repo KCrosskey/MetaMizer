@@ -1,0 +1,59 @@
+file_metadata:
+  creator: Kenneth
+  created_date: '2026-10-29 08:45:45'
+  filename_mode: standardized
+  generated_filename: 20261029_RDE_NiO_1MKOH_927mVrheHgO_Pulsed-Current-Activation_i01_t01
+  linked_files: ''
+ink_recipe:
+  recipe_book_path: C:/Users/crossl_k/Desktop/Metamizer_TestMaterials/InkRecipeBook.csv
+  selected_ink_recipe: 'A: RDE'
+  material_id: NiO
+  catalyst_mass_mg: 2.31
+  ink_id: i01
+calculated_ink_components:
+  Concentration (mg/mL):
+    nominal_conc_mg/mL: 2.0
+  Black Pearl C (mg):
+    per_mg_catlyst_ratio: 0.0
+    calculated_ammount: 0.0
+  MQ H20 (mL):
+    per_mg_catlyst_ratio: 0.1
+    calculated_ammount: 0.231
+  IPA (mL):
+    per_mg_catlyst_ratio: 0.4
+    calculated_ammount: 0.924
+  EtOH (mL):
+    per_mg_catlyst_ratio: 0.0
+    calculated_ammount: 0.0
+  0.04 M KOH (uL):
+    per_mg_catlyst_ratio: 40.0
+    calculated_ammount: 92.4
+  Na-exch. Nafion (uL):
+    per_mg_catlyst_ratio: 1.25
+    calculated_ammount: 2.888
+experiment_parameters:
+  exp_purpose: Metamizer demonstrations
+  reaction: Oxygen Evolution
+  trial_id: t01
+  catalyst_loading:
+    ink_vol_uL: 5.0
+    mass_loading_ug: 10.0
+  electrolyte:
+    concentration_M: '1'
+    composition: KOH
+    known_impurities_ppm: null
+    gas_bubbled_mLpermin: Syn. Air
+  reference_electrode:
+    ref_type: Hg|HgO
+    mV_vs_rhe: 927.0
+  experiment_info:
+    exp_type: user input
+    custom_type: Pulsed-Current-Activation
+    rotation_rpm: 1600.0
+    counter_elect: Au
+    electrode_tip_config: GC/RDE
+    working_area_geo_cm2: 0.16
+    cell_config: 3 electrode_FEP
+notes: 'Periodic noise in OCV due to construction drilling in neighboring lab.
+
+  '
