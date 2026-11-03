@@ -1,0 +1,52 @@
+variable_name,column_label
+str_fc_author,Scientist
+str_fc_purpose,Purpose
+str_fc_reaction,Reaction
+str_fc_trial_id,Trial ID
+fc_clicked_exp_type,Exp. Type
+str_fc_material_id,Material ID
+str_fc_electrode_id,WE ID
+str_fc_electrode_mass,WE mass (mg)
+clicked_ink_fc,Ink Type
+str_fc_electrode_area,WE area (cm2)
+str_fc_CE_id,CE ID
+clicked_fc_counter_elctrd_type,CE type
+str_fc_CE_mass,CE mass (mg)
+str_fc_electrolyte_conc,Elect. Conc. (M)
+str_fc_electrolyte_chem,Composition
+str_fc_impurity,Impurities (ppm)
+str_fc_flowrate,Elect. Flow rate (ml/min)
+str_fc_gasflowrate,Gas/flow rate (mL/min)
+clicked_fc_ref_type1,Ref. 1 type
+str_fc_ref_potential1,Ref.1 vs Ref. 2 (mV)
+clicked_fc_ref_type2,Ref. 2 type
+str_fc_ref_potential2,Ref. 2 vs RHE (mV)
+ent_fc_notes,Notes
+str_fc_beamline_expid,Beamtime Exp. ID
+str_fc_beamline,Beamline
+str_fc_optics,Optics
+str_fc_mono,Monochromator
+str_fc_filter,Filter
+str_fc_I0,Flux
+str_fc_beamspot,Beamspot
+str_fc_enrgymin,XAS min (eV)
+str_fc_enrgymax,XAS max (eV)
+str_fc_steps,XAS steps (eV)
+str_fc_freq,XAS frequency (Hz)
+str_fc_detector1,XAS detector
+str_fc_detectmode,XAS mode
+fc_clicked_photon,Conversion in
+str_fc_photonoutput,Conversion out
+str_fc_2thetamin,2theta min
+str_fc_2thetamax,2theta max
+str_fc_detector2,XRD detector
+str_fc_detector2dist,XRD detector distance
+str_fc_xrddetectmode,XRD mode
+beamline_notes,Beamline notes
+str_fc_Links,Linked files
+str_fc_generated_filename,filename
+str_fc_cell_id,Cell ID
+str_fc_gasketmembrane,Cell gasket/membrane
+str_fc_torque,Sealing torque (N.m)
+str_fc_electThick,Elect. Thickness (mm)
+fc_clicked_cell_mat_type,Cell material

@@ -1,0 +1,4 @@
+﻿ink_id,Concentration (mg/mL),Black Pearl C (mg),MQ H20 (mL),IPA (mL),EtOH (mL),0.04 M KOH (uL),Na-exch. Nafion (uL)
+A: RDE,2,0,0.1,0.4,0,40,1.25
+B: XPS,2,0.2,0.1,0.4,0,36,1.5
+C: flow cell,34,0,0.2,0,0.3,0,5

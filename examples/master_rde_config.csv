@@ -1,0 +1,29 @@
+variable_name,column_label
+str_author,Scientist
+str_purpose,Purpose
+str_reaction,Reaction
+clicked_exp_type,Exp. Type
+str_user_exp_type,User def. exp. Type
+filename_mode,Filename mode
+str_generated_filename,Filename
+str_user_filename,User def. filename
+str_trial_id,Trial ID
+str_material_id,Material ID
+str_ink_id,Ink ID
+clicked_ink,Ink Type
+str_ink_mass,Catalyst mass (mg)
+str_ink_conc,Concentration (mg/mL)
+str_ink_vol,Dropcast volume (uL)
+str_electrolyte_chem,Electrolyte
+str_electrolyte_conc,Concentration (M)
+str_impurity,Impurities (ppm)
+clicked_ref_type,Ref. type
+str_ref_potential,Ref. vs RHE (mV)
+str_rotation,Rotation (rpm)
+clicked_elctrd_type,WE type
+clicked_counter_elctrd_type,CE
+str_area,Geo. Area (cm2)
+clicked_cell_type,Cell type
+clicked_cell_mat_type,Cell material
+ent_notes,Notes
+str_Links,Linked files

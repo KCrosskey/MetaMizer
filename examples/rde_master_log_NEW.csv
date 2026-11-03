@@ -1,0 +1,6 @@
+Timestamp,Scientist,Purpose,Reaction,Exp. Type,User def. exp. Type,Filename mode,Filename,User def. filename,Trial ID,Material ID,Ink ID,Ink Type,Catalyst mass (mg),Concentration (mg/mL),Dropcast volume (uL),Electrolyte,Concentration (M),Impurities (ppm),Ref. type,Ref. vs RHE (mV),Rotation (rpm),WE type,CE,Geo. Area (cm2),Cell type,Cell material,Notes,Linked files
+2026-09-07 13:54:01,K,0,0,test,,standardized,20260907_RDE_testRDElog_0M0_0mVrheHgO_test,,,testRDElog,,A: RDE,2,0,0,0,0,,Hg|HgO,0,,GC/RDE,Au,,3 electrode,FEP,,
+2026-09-07 13:54:50,K,0,0,test,,standardized,20260907_RDE_testRDElog_0M0_0mVrheHgO_test,,,testRDElog,,A: RDE,2,0,0,0,0,,Hg|HgO,0,,GC/RDE,Au,,3 electrode,FEP,,
+2026-09-07 13:54:55,K,0,0,test,,standardized,20260907_RDE_testRDElog_0M0_0mVrheHgO_test,,,testRDElog,,A: RDE,2,0,0,0,0,,Hg|HgO,0,,GC/RDE,Au,,3 electrode,FEP,,
+2026-09-07 13:54:58,K,0,0,test,,standardized,20260907_RDE_testRDElog_0M0_0mVrheHgO_test,,,testRDElog,,A: RDE,2,0,0,0,0,,Hg|HgO,0,,GC/RDE,Au,,3 electrode,FEP,,
+2026-09-07 13:55:40,K,tEST2,0,test,,standardized,20260907_RDE_testRDElog_0M0_0mVrheHgO_test_t2,,t2,testRDElog,,A: RDE,2,0,0,0,0,,Hg|HgO,0,,GC/RDE,Au,,3 electrode,FEP,,
